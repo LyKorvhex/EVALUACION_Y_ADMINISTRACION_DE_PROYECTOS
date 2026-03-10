@@ -200,3 +200,14 @@ Los elementos que integran el diagnóstico organizacional son:
 2. Clima
 	- Confianza, claridad, estrés, moral, cohesión, optimismo, competencia, confrontación, claridad, libertad, tensión, apertura.
 
+Para realizar un adecuado análisis organizacional es importante considerar que una empresa es un sistema inmerso en un suprasistema y dividido en subsistemas. De acuerdo a lo anterior, los principales subsistemas de una empresa son:
+1. __Subsistema humano.__ Está compuesto por las personas que integran la organización y que tienen expectativas en ella.
+2. __Subsistema tecnológico.__ Está formado por la maquinaria y los procesos que permiten la producción y distribución de los bienes y servicios de una empresa.
+3. __Subsistema administrativo.__ Lo integra la estructura organizacional, la autoridad, la responsabilidad y la comunicación.
+Por su parte, el suprasistema en el que se encuentra inmersa la empresa, comprende los siguientes integrantes:
+- Clientes (son parte fundamental para las empresas, debido a que estos establecen "condiciones" o "modas".
+- Accionistas.
+- Proveedores.
+- Sociedad.
+
+## Análisis de recursos humanos
