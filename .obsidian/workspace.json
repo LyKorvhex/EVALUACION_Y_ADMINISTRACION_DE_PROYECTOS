@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5676c55c6d88af6",
+        "id": "710c5bba7e399dff",
         "type": "tabs",
         "children": [
           {
-            "id": "4516ee061b6201d3",
+            "id": "19f0bbec0ca7e9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
+                "file": "UNIDAD III - Estudio técnico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 10. Reseña de la organización"
+              "title": "UNIDAD III - Estudio técnico"
             }
           }
         ]
@@ -73,12 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "b4ae0d60314cecba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIDAD III - Estudio técnico.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de UNIDAD III - Estudio técnico"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 202.5
   },
   "right": {
     "id": "934ab1a30e79e4a1",
@@ -89,12 +105,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4516ee061b6201d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
             "id": "a36c26c3cc1e9f23",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad I.md",
+                "file": "UNIDAD III - Estudio técnico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Unidad I"
+              "title": "Enlaces entrantes de UNIDAD III - Estudio técnico"
             }
           },
           {
@@ -149,28 +175,12 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
-          },
-          {
-            "id": "b4ae0d60314cecba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Unidad I.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Unidad I"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,12 @@
       "audio-recorder:Iniciar/Detener la grabación": false
     }
   },
-  "active": "4516ee061b6201d3",
+  "active": "b4ae0d60314cecba",
   "lastOpenFiles": [
-    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
+    "UNIDAD II - Estudio de Mercado.md",
+    "UNIDAD III - Estudio técnico.md",
     "TAREAS/Tarea 10. Reseña de la organización.md",
+    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
     "TAREAS/Tarea 2. Buscar una visión.md",
     "TAREAS/Tarea 1. Buscar una misión.md",
     "TAREAS/Tarea 4. Identificar los medios de promoción.md",
@@ -195,14 +207,12 @@
     "TAREAS/Tarea 3. Realizar un análisis FODA.md",
     "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
     "TAREAS/Tarea 11. Organigrama.md",
-    "UNIDAD III - Estudio técnico.md",
     "TAREAS/Tarea 14. Reglamento.md",
     "TAREAS/Tarea 13. 3 Políticas.md",
     "TAREAS/Tarea 13. Organigrama.md",
     "TAREAS/Tarea 12. Diagrama de flujo.md",
     "Documentos.md",
     "TAREAS/Tarea 10. Exposición.md",
-    "UNIDAD II - Estudio de Mercado.md",
     "Sociedad en Nombre Colectivo.md",
     "IMG_20260303_081015_443.jpg",
     "IMG_20260303_080932_106.jpg",
