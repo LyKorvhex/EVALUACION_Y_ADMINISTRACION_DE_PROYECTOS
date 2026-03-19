@@ -20,4 +20,4 @@ g) Competencia
 - Vías de comunicación.
 - Líneas telefónicas.
 - Drenaje.
-- Eliminación de residuos, etc.
+- Eliminación de residuos, etc. 

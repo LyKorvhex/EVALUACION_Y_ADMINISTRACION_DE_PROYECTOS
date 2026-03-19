@@ -1,1 +1,1 @@
-Transformar ideas en piezas gráficas de calidad que comuniquen con claridad, creatividad y profesionalismo 
+Transformar ideas en piezas gráficas de calidad que comuniquen con claridad, creatividad y profesionalismo

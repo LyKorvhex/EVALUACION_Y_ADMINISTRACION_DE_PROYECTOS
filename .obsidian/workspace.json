@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
+                "mode": "preview",
+=======
                 "file": "UNIDAD III - Estudio técnico.md",
                 "mode": "source",
+>>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
                 "source": false
               },
               "icon": "lucide-file",
@@ -108,7 +113,16 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 202.5
+=======
+<<<<<<< HEAD
+    "width": 363.5
+=======
+    "width": 202.5,
+    "collapsed": true
+>>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
+>>>>>>> 88a193edb884636e27dd54bf2211bc0b92d0e178
   },
   "right": {
     "id": "934ab1a30e79e4a1",
@@ -215,6 +229,12 @@
   },
   "active": "6c26f64638cf154a",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    "TAREAS/Tarea 10. Reseña de la organización.md",
+>>>>>>> 88a193edb884636e27dd54bf2211bc0b92d0e178
     "UNIDAD III - Estudio técnico.md",
     "TAREAS/Tarea 10. Reseña de la organización.md",
     "UNIDAD II - Estudio de Mercado.md",
@@ -228,10 +248,23 @@
     "TAREAS/Tarea 3. Realizar un análisis FODA.md",
     "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
     "TAREAS/Tarea 11. Organigrama.md",
+>>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
     "TAREAS/Tarea 14. Reglamento.md",
     "TAREAS/Tarea 13. 3 Políticas.md",
-    "TAREAS/Tarea 13. Organigrama.md",
     "TAREAS/Tarea 12. Diagrama de flujo.md",
+    "TAREAS/Tarea 11. Organigrama.md",
+    "TAREAS/Tarea 10. Reseña de la organización.md",
+    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
+    "TAREAS/Tarea 8. Croquis (planos).md",
+    "TAREAS/Tarea 7. Tamaño de la planta y adecuaciones.md",
+    "TAREAS/Tarea 6. Macro y microlocalización..md",
+    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
+    "TAREAS/Tarea 4. Identificar los medios de promoción.md",
+    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
+    "TAREAS/Tarea 2. Buscar una visión.md",
+    "TAREAS/Tarea 1. Buscar una misión.md",
+    "UNIDAD III - Estudio técnico.md",
+    "TAREAS/Tarea 13. Organigrama.md",
     "Documentos.md",
     "TAREAS/Tarea 10. Exposición.md",
     "Sociedad en Nombre Colectivo.md",
@@ -242,11 +275,15 @@
     "IMG_20260303_080753_498.jpg",
     "Pasted image 20260225223905.png",
     "Pasted image 20260225202818.png",
-    "TAREAS/Tarea 8. Croquis (planos).md",
     "OIP-4286943357.jpg",
     "Pasted image 20260224084617.png",
     "Pasted image 20260224084054.png",
+<<<<<<< HEAD
+    "UNIDAD I - Conceptos básicos.md",
+    "Importante.md",
+=======
     "TAREAS/Tarea 7. Tamaño de la planta y adecuaciones.md",
+>>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
     "TAREAS/Sin título.base",
     "TAREAS",
     "Proyecto de Negocio.md",
