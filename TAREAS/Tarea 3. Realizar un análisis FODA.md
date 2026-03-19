@@ -20,4 +20,4 @@
 - Fuerte competencia con imprentas digitales y servicios online.
 - Inversión constante en actualización de equipos.
 - Fluctuación de precios en materia prima.
-- Reducción de demanda de impresión física por digitalización.
+- Reducción de demanda de impresión física por digitalización. 

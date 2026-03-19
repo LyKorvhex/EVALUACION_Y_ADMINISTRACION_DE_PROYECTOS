@@ -1,6 +1,6 @@
  ## NIVEL 1 - IMPRENTA DIGITAL
 - Impresora digital de producción
-	- Esta permitirá trabajar con tarjetas, trípticos, menús, revistas cortas, etiquetas...
+	- Esta permitirá trabajar con tarjetas, trípticos, menús, revistas cortas, etiquetas... 
 ![[Pasted image 20260224080609.png]]
 
 - Plotter de gran formato (Eco-solvente o Látex)

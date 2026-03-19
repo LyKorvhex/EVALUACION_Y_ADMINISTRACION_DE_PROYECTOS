@@ -15,3 +15,4 @@
 - **Marketing digital**: banners web, plantillas para redes sociales, anuncios animados.
 - **Diseño 3D y multimedia**: renders de productos, anuncios en pantallas LED.
 - **Consultoría creativa**: asesoría en campañas, estrategias visuales y comunicación.
+ 

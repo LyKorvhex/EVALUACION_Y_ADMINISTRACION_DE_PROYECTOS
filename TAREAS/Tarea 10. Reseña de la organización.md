@@ -26,4 +26,4 @@ La organización se rige por un conjunto de valores que orientan su operación y
 - __Responsabilidad:__ cumplimiento en tiempos de entrega y atención al cliente.
 - __Trabajo en equipo:__ colaboración constante entre los integrantes de la organización.
 - __Compromiso:__ dedicación para satisfacer las necesidades del cliente.
-- __Innovación:__ adopción de nuevas tecnologías y tendencias en diseño e impresión.
+- __Innovación:__ adopción de nuevas tecnologías y tendencias en diseño e impresión. 

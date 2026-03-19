@@ -1,1 +1,1 @@
-Superar fronteras llevando soluciones gráficas a un nivel internacional, inspirando con creatividad y excelencia.
+Superar fronteras llevando soluciones gráficas a un nivel internacional, inspirando con creatividad y excelencia. 
