@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIDAD III - Estudio técnico.md",
+                "file": "TAREAS/Tarea 4. Identificar los medios de promoción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIDAD III - Estudio técnico"
+              "title": "Tarea 4. Identificar los medios de promoción"
             }
           }
         ],
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "934ab1a30e79e4a1",
@@ -216,8 +215,8 @@
   },
   "active": "6c26f64638cf154a",
   "lastOpenFiles": [
-    "TAREAS/Tarea 10. Reseña de la organización.md",
     "UNIDAD III - Estudio técnico.md",
+    "TAREAS/Tarea 10. Reseña de la organización.md",
     "UNIDAD II - Estudio de Mercado.md",
     "UNIDAD I - Conceptos básicos.md",
     "Importante.md",
