@@ -211,3 +211,13 @@ Por su parte, el suprasistema en el que se encuentra inmersa la empresa, compren
 - Sociedad.
 
 ## Análisis de recursos humanos
+Como se ha podido notar, los recursos humanos no son indispensables para tomar decisiones en el proyecto de inversión. Este término incluye a todo el personal, operativo, administrativo y gerencial que el proyecto demande.
+
+Si el proyecto de inversión obliga a la creación de una nueva empresa, se tendrá que establecer toda la estructura organizacional de la empresa, diseñar los manuales...
+
+Cuando el proyecto de inversión sea de una empresa existente, es necesario revisar las modificaciones a la estructura organizacional y las modificaciones a los procedimientos. Aparecerá la figura de líder de proyecto que se encargará de coordinar el trabajo de todas las áreas involucradas en el proyecto y es el responsable de su implementación y logros.
+
+Asimismo, el líder del proyecto presidirá el comité de proyectos. El comité de proyectos es la junta de los principales ejecutivos que participan en un proyecto de inversión.
+
+## Planeación de Recursos Humanos
+Es una técnica para determinar en forma sistemática la provisión y demanda de empleados que tendrá un proyecto. Se fijarán los departamentos, los horarios y se definirán los trabajos de reclutamiento, selección y capacitación, entre otros aspectos.
