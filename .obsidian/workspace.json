@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
+                "file": "TAREAS/Tarea 6. Macro y microlocalización..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 5. Identificar productos y-o servicios a ofertar"
+              "title": "Tarea 6. Macro y microlocalización."
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "4bb22fc014a4ecec",
@@ -186,6 +187,11 @@
   },
   "active": "853eafc2716d116e",
   "lastOpenFiles": [
+    "~WRL0212.tmp",
+    "~WRD0165.tmp",
+    "~WRL0791.tmp",
+    "~WRD0748.tmp",
+    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
     "~WRL3380.tmp",
     "~WRD3364.tmp",
     "~WRD3349.tmp",
