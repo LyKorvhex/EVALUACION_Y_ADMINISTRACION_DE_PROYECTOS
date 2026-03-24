@@ -221,3 +221,42 @@ Asimismo, el líder del proyecto presidirá el comité de proyectos. El comité 
 
 ## Planeación de Recursos Humanos
 Es una técnica para determinar en forma sistemática la provisión y demanda de empleados que tendrá un proyecto. Se fijarán los departamentos, los horarios y se definirán los trabajos de reclutamiento, selección y capacitación, entre otros aspectos.
+
+## Información Requerida
+La primera parte de un estudio financiero implica recabar información relativa a las cifras que arrojan los estudios de mercado, técnico, administrativo y de impacto, entre las que destacan:
+
+a) Los volúmenes de ventas en términos monetarios.
+b) Los costos de distribución.
+c) La inversión de maquinaria.
+d) Los costos de transportación.
+e) Los costos de producción.
+f) La inversión en mano de obra.
+g) La inversión en materia prima.
+h) El valor de la depreciación.
+i) Los gastos de administración.
+j) Los costos ecológicos.
+k) Los gastos legales de constitución se refieren a dar de alta ante la instancia correspondiente a la empresa y 
+l) Los gastos preoperativos que, en general, se forman por los gastos de venta, administración, financieros y de producción erogados antes de realizar la primera venta.
+
+Con estas cifras, se procede a la segunda etapa del estudio financiero, la cual consiste en realizar los siguientes presupuestos:
+
+a) De inversiones.
+b) De estructura de capital.
+c) De ventas.
+d) De costos.
+e) De utilidades.
+f) Capital de trabajo.
+g) Flujo de efectivo.
+
+Teniendo lo presupuestos, la siguiente etapa consiste en formular los estados financieros proyectados, es decir:
+
+a) El estado de situación financiera.
+b) El estado de resultados integral.
+c) El estado de cambios en el capital contable.
+d) El estado de flujos de efectivo.
+
+En la evaluación financiera de proyectos de inversión se estiman los presupuestos y estado financieros proforma, a partir del pronóstico de ventas y la determinación de activos necesarios para que funcione el proyecto de inversión.
+
+## Elaboración de estados financieros
+La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. 
+Primeramente se consideran las inversiones requeridas por los proyectos de Inversión: inversión fija, inversión diferida y capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos de ingresos y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
