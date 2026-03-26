@@ -260,3 +260,53 @@ En la evaluación financiera de proyectos de inversión se estiman los presupues
 ## Elaboración de estados financieros
 La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. 
 Primeramente se consideran las inversiones requeridas por los proyectos de Inversión: inversión fija, inversión diferida y capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos de ingresos y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
+
+## Inversión fija
+Representa una de las partes características de los proyectos de inversión, sobre todo, los de nueva creación de empresas, o bien, los proyectos de sustitución de activos, porque esta inversión se destina a la consumación de la capacidad productiva y distributiva de un proyecto. En otras palabras, se refiere a la adquisición de los activos de operación tales como las construcciones, la maquinaria y equipo, desarrollo de patentes, investigación y desarrollo, etcétera.
+
+Esta inversión es la más fuerte de todo el proyecto, porque es la que más demanda de recursos y tiempo para ser recuperada.
+
+## Inversión en capital de trabajo o variable
+La operación del negocio también requiere inversión, principalmente la relacionada con la compra de materiales, pago de mano de obra y de los gastos generales. Esto provoca que se modifique el flujo de efectivo y, con él, el capital de trabajo, que es la diferencia entre el activo circulante y el pasivo a largo plazo.
+
+Para el primer año de operaciones o de implementación del proyecto, es importante que el capital de trabajo incremental se financie con créditos y capital, eso significa que parte de la inversión inicial es inyectada en la actividad generada por el proyecto, durante su primer año o primeros años de vida.
+
+## Inversión preoperativa
+En la etapa preoperativa se calculan los intereses derivados de aquellas partes de la inversión que se financia mediante préstamo o deuda. Estos intereses preoperativos se capitalizan y se recuperan a lo largo de la etapa operativa del proyecto a través del rubro denominado "amortización diferida".
+
+Cabe señalar que los intereses de la etapa operativa derivados del financiamiento por deuda, adquirida, no se capitalizan, sino que se cargan como costo en el estado de resultados.
+
+## Interés
+Los inversionistas canalizan sus excedentes de efectivo a inversiones por las que reciben un premio, mismo que es pagado por la persona (física o moral) que toma estos recursos en préstamo.
+
+Este premio recibe el nombre de rendimiento, para el inversionista, y de costo, para quien toma los recursos en préstamo; también se indicó que ambos, rendimiento y costo, se expresan en forma de porcentaje respecto del monto original.
+
+Cuando los intereses no se reinvierten decimos que la cuenta genera interés simple, ya que los intereses siempre son calculados sobre la cantidad original. Cuando se reinvierten, hablamos de capitalizar los intereses de la inversión, y entonces lo que se está aplicando es interés compuesto, ya que los intereses de periodos subsecuentes son mayores que los de periodos previos. En el caso de los préstamos , también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos.
+
+En el caso de los préstamos, también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos insolutos cuando los intereses se calculan sobre una cantidad cada vez menor, a la que se denomina saldo insoluto y que para cada periodo es menor, ya que al monto original del préstamo se le van restando los pagos que el deudor va haciendo con el paso del tiempo.
+
+### Interés simple
+Es el dinero generado sobre el capital original, sin considerar el interés sobre el dinero generado.
+
+La fórmula del interés simple sería:
+$$I = C * i * n$$
+
+La fórmula del monto sería:
+$$M = C * (1 + I)^-n$$
+
+C = Capital
+i = tasa
+n = periodo
+
+### Interés compuesto
+Es el dinero generado sobre el interés. En otras palabras, el interés se capitaliza.
+
+Su fórmula es:
+
+$$M = C($$
+
+## Análisis de las inversiones
+La inversión inicial, deberá incluir el desembolso necesario para adquirir, transportar e instalar la maquinaria y el equipo que se requieran para realizar el proyecto y, en su caso, también los desembolsos para comprar los terrenos, edificios y otros activos fijos que se requieran. Las inversiones requeridas se distribuyen en dos grandes grupos:
+
+1. Las que se requieren para la instalación de la planta (Montaje) y
+2. Las requeridas para el inicio de operaciones (Producción posterior a la etapa de pruebas).
