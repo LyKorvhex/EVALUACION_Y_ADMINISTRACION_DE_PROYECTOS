@@ -303,10 +303,53 @@ Es el dinero generado sobre el interés. En otras palabras, el interés se capit
 
 Su fórmula es:
 
-$$M = C($$
+![[Formula-interes-compuesto-1024x384-4260438811.jpg]]
 
 ## Análisis de las inversiones
 La inversión inicial, deberá incluir el desembolso necesario para adquirir, transportar e instalar la maquinaria y el equipo que se requieran para realizar el proyecto y, en su caso, también los desembolsos para comprar los terrenos, edificios y otros activos fijos que se requieran. Las inversiones requeridas se distribuyen en dos grandes grupos:
 
 1. Las que se requieren para la instalación de la planta (Montaje) y
 2. Las requeridas para el inicio de operaciones (Producción posterior a la etapa de pruebas).
+
+### Inversion fija
+Dentro de las inversiones que se realizan en el capital fijo o inmovilizado, se encuentran aquellos bienes que son adquiridos inicialmente o durante el proyecto, se entiende por activo tangible o fijo...
+
+Sus funciones son las de facilitar la obtención física de un producto; se encuentran sujetos a depreciación, agotamiento u obsolescencia y su recuperación se realiza a largo plazo. La excepción la constituyen los terrenos, los que no están sujetos a depreciación ya que su valor tiende a incrementarse en el transcurso del tiempo.
+
+- Terreno para la instalación de la planta.
+- Obra Civil.
+- Maquinaria y Equipo de instalación.
+- Servicios Auxiliares e Instalaciones Complementarias.
+- Imprevistos.
+
+#### Ejemplo
+![[IMG_20260414_075455_806.jpg]]
+
+### Inversión diferida
+Se realizan otras inversiones en bienes y servicios intangibles que son indispensables para la iniciación del proyecto, pero que no intervienen directamente en la producción. Están sujetos a amortización y se recuperan a largo plazo. A estas inversiones se les denomina activos diferidos o cargos diferidos.
+
+A esta definición contable se le antepone la definición fiscal, la cual está contenida en el Artículo 21, letra e, de la Ley del Impuesto sobre la Renta: "Se entenderá por cargos diferidos los activos intangibles representados por bienes o derechos que permitan reducir costos de operación o mejorar la calidad o aceptación de un producto, durante un periodo ilimitado o que depende de la duración del negocio, y por gastos diferidos, los que reúnan los requisitos anteriores pero cuyo beneficio se concreta a un periodo limitado, inferior a la duración de la empresa".
+
+Haciendo un análisis de los rubros que tradicionalmente se han considerado como activos intangibles, a saber: las investigaciones y estudios previos a la puesta en marcha, organización de la empresa, patentes, diseños comerciales o industriales y conocimientos técnicos y especializados en ingeniería, supervisión y administración de la instalación.
+
+- Investigaciones y Estudios Previos.
+- Organización de la Empresa.
+- Patentes y Conocimientos Técnicos Especializados.
+- Ingeniería, Supervisión y Administración de la Instalación.
+- Puesta en Marcha de la Planta.
+![[IMG_20260414_080653_962.jpg]]
+
+
+## Elaboración de estados financieros
+La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. Primeramente hay que considerar las inversiones que requieren los proyectos de inversión y se divide en: inversión fija, inversión diferida y el capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos ingreso y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
+
+Posteriormente se hará la evaluación financiera del proyecto que es la sección más importante del estudio, ya que es aquí donde se observará si el proyecto es financieramente viable al estimar el Flujo Neto de Efectivo. costo de capital, Valor Presente Neto (VPN), Tasa Interna de Retorno (TIR), relación beneficio-costo y tiempo de recuperación de la inversión así como el análisis de sensibilidad.
+
+## Estado de situación financiera
+También conocido como Estado de posición financiera o Balance general. Este estado nos muestra la situación financiera de una empresa a determinada fecha, contando con tres conceptos básicos: Activo, pasivo y capital contable. De esta forma proporciona a los usuarios de información la imagen de rentabilidad, solvencia, liquidez, capacidad financiera, etc. La fórmula de este es el activo es igual al pasivo más el capital contable.
+
+$$A= P + CC$$
+$A = Activo$
+$P = Pasivo$
+$CC = Capital Contable$
+
