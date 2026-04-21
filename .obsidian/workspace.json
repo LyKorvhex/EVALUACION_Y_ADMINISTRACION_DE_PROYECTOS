@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
+                "file": "TAREAS/Tarea 2. Buscar una visión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 9. Maquinaria y-o equipo"
+              "title": "Tarea 2. Buscar una visión"
             }
           }
         ]
@@ -186,11 +186,13 @@
   },
   "active": "853eafc2716d116e",
   "lastOpenFiles": [
+    "TAREAS/Tarea 1. Buscar una misión.md",
+    "TAREAS/Tarea 2. Buscar una visión.md",
+    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
     "Planos_DigitalVision.pdf",
     "~$tudio_Tecnico.docx",
     "UNIDAD III - Estudio técnico.md",
     "TAREAS/Tarea 10. Reseña de la organización.md",
-    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
     "TAREAS/Tarea 14. Reglamento.md",
     "TAREAS/Tarea 15. Identificar el estimado de dinero.md",
     "Documentos.md",
@@ -219,7 +221,6 @@
     "TAREAS/Tarea 6. Macro y microlocalización..md",
     "~WRL0212.tmp",
     "~WRD0165.tmp",
-    "~WRL0791.tmp",
-    "~WRD0748.tmp"
+    "~WRL0791.tmp"
   ]
 }
