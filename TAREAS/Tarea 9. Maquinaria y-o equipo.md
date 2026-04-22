@@ -8,42 +8,44 @@
 > [!NOTA] Plotter
 Es un equipo especializado que permite imprimir o cortar en gran formato con alta precisión. A diferencia de una impresora tradicional, este trabaja con rollos o bobinas que permiten cubrir áreas más amplias y con trazos mucho más definidos.
 
-![[Pasted image 20260225223905.png]]
+![[Pasted image 20260225223905.png|697]]
 
 - Plotter de corte
 	- Para cortar vinil adhesivo.
 	- Letras y gráficos.
 
-![[OIP-4286943357.jpg]]
+![[Pasted image 20260418193654.png]]
 ### Acabados (MUY importante)
 - Guillotina industrial
 	- Para cortes exactos y volumen alto.
 
 ![[Pasted image 20260224084617.png]]
 
-- Laminadora
-	- Fría (vinil y lonas).
-
-
-
 - Engargoladora
 	- Espiral
-	- Térmica (tésis)
+![[Pasted image 20260418201549.png]]
+- Térmica
+![[Pasted image 20260418202651.png]]
 - Dobladora
 	- Para trípticos y folletos.
 ![[Pasted image 20260225202818.png]]
 ### Grabado en tazas
 - Prensa térmica para tazas
 - Impresora de sublimación
-![[OIP-3208645189.jpg]]
+![[Pasted image 20260418203055.png]]
 ### Impresora 3D FDM
 - Para prototipos
 - Letras volumétricas
 - Productos promocionales
-![[OIP-2307193101.jpg]]
+![[Pasted image 20260418203223.png]]
 ### Área de Diseño
 - Equipo obligatorio
 	- PC de alto rendimiento
 	- Monitor calibrado
 	- Tableta digitalizadora
 	- Software profesional (como blender)
+![[Pasted image 20260418203608.png|562]]
+![[Pasted image 20260418203834.png|604]]
+### Mostrador
+- Mostrador
+![[Pasted image 20260418190306.png]]

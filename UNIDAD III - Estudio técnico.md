@@ -221,3 +221,135 @@ Asimismo, el líder del proyecto presidirá el comité de proyectos. El comité 
 
 ## Planeación de Recursos Humanos
 Es una técnica para determinar en forma sistemática la provisión y demanda de empleados que tendrá un proyecto. Se fijarán los departamentos, los horarios y se definirán los trabajos de reclutamiento, selección y capacitación, entre otros aspectos.
+
+## Información Requerida
+La primera parte de un estudio financiero implica recabar información relativa a las cifras que arrojan los estudios de mercado, técnico, administrativo y de impacto, entre las que destacan:
+
+a) Los volúmenes de ventas en términos monetarios.
+b) Los costos de distribución.
+c) La inversión de maquinaria.
+d) Los costos de transportación.
+e) Los costos de producción.
+f) La inversión en mano de obra.
+g) La inversión en materia prima.
+h) El valor de la depreciación.
+i) Los gastos de administración.
+j) Los costos ecológicos.
+k) Los gastos legales de constitución se refieren a dar de alta ante la instancia correspondiente a la empresa y 
+l) Los gastos preoperativos que, en general, se forman por los gastos de venta, administración, financieros y de producción erogados antes de realizar la primera venta.
+
+Con estas cifras, se procede a la segunda etapa del estudio financiero, la cual consiste en realizar los siguientes presupuestos:
+
+a) De inversiones.
+b) De estructura de capital.
+c) De ventas.
+d) De costos.
+e) De utilidades.
+f) Capital de trabajo.
+g) Flujo de efectivo.
+
+Teniendo lo presupuestos, la siguiente etapa consiste en formular los estados financieros proyectados, es decir:
+
+a) El estado de situación financiera.
+b) El estado de resultados integral.
+c) El estado de cambios en el capital contable.
+d) El estado de flujos de efectivo.
+
+En la evaluación financiera de proyectos de inversión se estiman los presupuestos y estado financieros proforma, a partir del pronóstico de ventas y la determinación de activos necesarios para que funcione el proyecto de inversión.
+
+## Elaboración de estados financieros
+La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. 
+Primeramente se consideran las inversiones requeridas por los proyectos de Inversión: inversión fija, inversión diferida y capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos de ingresos y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
+
+## Inversión fija
+Representa una de las partes características de los proyectos de inversión, sobre todo, los de nueva creación de empresas, o bien, los proyectos de sustitución de activos, porque esta inversión se destina a la consumación de la capacidad productiva y distributiva de un proyecto. En otras palabras, se refiere a la adquisición de los activos de operación tales como las construcciones, la maquinaria y equipo, desarrollo de patentes, investigación y desarrollo, etcétera.
+
+Esta inversión es la más fuerte de todo el proyecto, porque es la que más demanda de recursos y tiempo para ser recuperada.
+
+## Inversión en capital de trabajo o variable
+La operación del negocio también requiere inversión, principalmente la relacionada con la compra de materiales, pago de mano de obra y de los gastos generales. Esto provoca que se modifique el flujo de efectivo y, con él, el capital de trabajo, que es la diferencia entre el activo circulante y el pasivo a largo plazo.
+
+Para el primer año de operaciones o de implementación del proyecto, es importante que el capital de trabajo incremental se financie con créditos y capital, eso significa que parte de la inversión inicial es inyectada en la actividad generada por el proyecto, durante su primer año o primeros años de vida.
+
+## Inversión preoperativa
+En la etapa preoperativa se calculan los intereses derivados de aquellas partes de la inversión que se financia mediante préstamo o deuda. Estos intereses preoperativos se capitalizan y se recuperan a lo largo de la etapa operativa del proyecto a través del rubro denominado "amortización diferida".
+
+Cabe señalar que los intereses de la etapa operativa derivados del financiamiento por deuda, adquirida, no se capitalizan, sino que se cargan como costo en el estado de resultados.
+
+## Interés
+Los inversionistas canalizan sus excedentes de efectivo a inversiones por las que reciben un premio, mismo que es pagado por la persona (física o moral) que toma estos recursos en préstamo.
+
+Este premio recibe el nombre de rendimiento, para el inversionista, y de costo, para quien toma los recursos en préstamo; también se indicó que ambos, rendimiento y costo, se expresan en forma de porcentaje respecto del monto original.
+
+Cuando los intereses no se reinvierten decimos que la cuenta genera interés simple, ya que los intereses siempre son calculados sobre la cantidad original. Cuando se reinvierten, hablamos de capitalizar los intereses de la inversión, y entonces lo que se está aplicando es interés compuesto, ya que los intereses de periodos subsecuentes son mayores que los de periodos previos. En el caso de los préstamos , también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos.
+
+En el caso de los préstamos, también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos insolutos cuando los intereses se calculan sobre una cantidad cada vez menor, a la que se denomina saldo insoluto y que para cada periodo es menor, ya que al monto original del préstamo se le van restando los pagos que el deudor va haciendo con el paso del tiempo.
+
+### Interés simple
+Es el dinero generado sobre el capital original, sin considerar el interés sobre el dinero generado.
+
+La fórmula del interés simple sería:
+$$I = C * i * n$$
+
+La fórmula del monto sería:
+$$M = C * (1 + I)^-n$$
+
+C = Capital
+i = tasa
+n = periodo
+
+### Interés compuesto
+Es el dinero generado sobre el interés. En otras palabras, el interés se capitaliza.
+
+Su fórmula es:
+
+![[Formula-interes-compuesto-1024x384-4260438811.jpg]]
+
+## Análisis de las inversiones
+La inversión inicial, deberá incluir el desembolso necesario para adquirir, transportar e instalar la maquinaria y el equipo que se requieran para realizar el proyecto y, en su caso, también los desembolsos para comprar los terrenos, edificios y otros activos fijos que se requieran. Las inversiones requeridas se distribuyen en dos grandes grupos:
+
+1. Las que se requieren para la instalación de la planta (Montaje) y
+2. Las requeridas para el inicio de operaciones (Producción posterior a la etapa de pruebas).
+
+### Inversion fija
+Dentro de las inversiones que se realizan en el capital fijo o inmovilizado, se encuentran aquellos bienes que son adquiridos inicialmente o durante el proyecto, se entiende por activo tangible o fijo...
+
+Sus funciones son las de facilitar la obtención física de un producto; se encuentran sujetos a depreciación, agotamiento u obsolescencia y su recuperación se realiza a largo plazo. La excepción la constituyen los terrenos, los que no están sujetos a depreciación ya que su valor tiende a incrementarse en el transcurso del tiempo.
+
+- Terreno para la instalación de la planta.
+- Obra Civil.
+- Maquinaria y Equipo de instalación.
+- Servicios Auxiliares e Instalaciones Complementarias.
+- Imprevistos.
+
+#### Ejemplo
+![[IMG_20260414_075455_806.jpg]]
+
+### Inversión diferida
+Se realizan otras inversiones en bienes y servicios intangibles que son indispensables para la iniciación del proyecto, pero que no intervienen directamente en la producción. Están sujetos a amortización y se recuperan a largo plazo. A estas inversiones se les denomina activos diferidos o cargos diferidos.
+
+A esta definición contable se le antepone la definición fiscal, la cual está contenida en el Artículo 21, letra e, de la Ley del Impuesto sobre la Renta: "Se entenderá por cargos diferidos los activos intangibles representados por bienes o derechos que permitan reducir costos de operación o mejorar la calidad o aceptación de un producto, durante un periodo ilimitado o que depende de la duración del negocio, y por gastos diferidos, los que reúnan los requisitos anteriores pero cuyo beneficio se concreta a un periodo limitado, inferior a la duración de la empresa".
+
+Haciendo un análisis de los rubros que tradicionalmente se han considerado como activos intangibles, a saber: las investigaciones y estudios previos a la puesta en marcha, organización de la empresa, patentes, diseños comerciales o industriales y conocimientos técnicos y especializados en ingeniería, supervisión y administración de la instalación.
+
+- Investigaciones y Estudios Previos.
+- Organización de la Empresa.
+- Patentes y Conocimientos Técnicos Especializados.
+- Ingeniería, Supervisión y Administración de la Instalación.
+- Puesta en Marcha de la Planta.
+![[IMG_20260414_080653_962.jpg]]
+
+
+## Elaboración de estados financieros
+La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. Primeramente hay que considerar las inversiones que requieren los proyectos de inversión y se divide en: inversión fija, inversión diferida y el capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos ingreso y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
+
+Posteriormente se hará la evaluación financiera del proyecto que es la sección más importante del estudio, ya que es aquí donde se observará si el proyecto es financieramente viable al estimar el Flujo Neto de Efectivo. costo de capital, Valor Presente Neto (VPN), Tasa Interna de Retorno (TIR), relación beneficio-costo y tiempo de recuperación de la inversión así como el análisis de sensibilidad.
+
+## Estado de situación financiera
+También conocido como Estado de posición financiera o Balance general. Este estado nos muestra la situación financiera de una empresa a determinada fecha, contando con tres conceptos básicos: Activo, pasivo y capital contable. De esta forma proporciona a los usuarios de información la imagen de rentabilidad, solvencia, liquidez, capacidad financiera, etc. La fórmula de este es el activo es igual al pasivo más el capital contable.
+
+$$A= P + CC$$
+$A = Activo$
+$P = Pasivo$
+$CC = Capital Contable$
+
