@@ -1,66 +1,42 @@
 {
   "main": {
-    "id": "2c5953e7211242b9",
+    "id": "888a352d5c573e31",
     "type": "split",
     "children": [
       {
-        "id": "710c5bba7e399dff",
+        "id": "2e26a724b12d0fec",
         "type": "tabs",
         "children": [
           {
-            "id": "19f0bbec0ca7e9af",
+            "id": "1d43c193f040ebfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
-                "mode": "preview",
-=======
-                "file": "UNIDAD III - Estudio técnico.md",
-                "mode": "source",
->>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UNIDAD III - Estudio técnico"
-            }
-          },
-          {
-            "id": "6c26f64638cf154a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIDAD III - Estudio técnico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNIDAD III - Estudio técnico"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d1b177670369e527",
+    "id": "826e4af12e82e64e",
     "type": "split",
     "children": [
       {
-        "id": "bed440fff711d450",
+        "id": "203b1f98f2837c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b2dc86074321b6",
+            "id": "2186e48e5cfb8463",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -68,7 +44,7 @@
             }
           },
           {
-            "id": "4e2b7faeb7c67fbd",
+            "id": "df5d3bff89505779",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +61,7 @@
             }
           },
           {
-            "id": "246b4dc8a60f6fee",
+            "id": "3ac37718db33bcb3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,62 +69,27 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "b4ae0d60314cecba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "UNIDAD III - Estudio técnico.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de UNIDAD III - Estudio técnico"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 363.5
-=======
-    "width": 202.5,
-    "collapsed": true
->>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
+    "width": 300
   },
   "right": {
-    "id": "934ab1a30e79e4a1",
+    "id": "979ca46385e647a9",
     "type": "split",
     "children": [
       {
-        "id": "6bbc7a64f2761427",
+        "id": "f8c98d9836ea4cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "4516ee061b6201d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Importante"
-            }
-          },
-          {
-            "id": "a36c26c3cc1e9f23",
+            "id": "c6f5ee78e19dced5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIDAD III - Estudio técnico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de UNIDAD III - Estudio técnico"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "d2b809f0a30fb4ee",
+            "id": "7837ad44c5a22837",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Unidad I"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "b65d50edf8907cbe",
+            "id": "e3d37f3811e9fae9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -191,7 +131,7 @@
             }
           },
           {
-            "id": "400d1c44392f98fe",
+            "id": "276f8c7a52879286",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -203,12 +143,26 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "dad3f8429f346252",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -219,68 +173,10 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "audio-recorder:Iniciar/Detener la grabación": false
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "6c26f64638cf154a",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "TAREAS/Tarea 10. Reseña de la organización.md",
-    "UNIDAD III - Estudio técnico.md",
-    "UNIDAD II - Estudio de Mercado.md",
-    "UNIDAD I - Conceptos básicos.md",
-    "Importante.md",
-    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
-    "TAREAS/Tarea 2. Buscar una visión.md",
-    "TAREAS/Tarea 1. Buscar una misión.md",
-    "TAREAS/Tarea 4. Identificar los medios de promoción.md",
-    "TAREAS/Tarea 6. Macro y microlocalización..md",
-    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
-    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
-    "TAREAS/Tarea 11. Organigrama.md",
->>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
-    "TAREAS/Tarea 14. Reglamento.md",
-    "TAREAS/Tarea 13. 3 Políticas.md",
-    "TAREAS/Tarea 12. Diagrama de flujo.md",
-    "TAREAS/Tarea 11. Organigrama.md",
-    "TAREAS/Tarea 10. Reseña de la organización.md",
-    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
-    "TAREAS/Tarea 8. Croquis (planos).md",
-    "TAREAS/Tarea 7. Tamaño de la planta y adecuaciones.md",
-    "TAREAS/Tarea 6. Macro y microlocalización..md",
-    "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
-    "TAREAS/Tarea 4. Identificar los medios de promoción.md",
-    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
-    "TAREAS/Tarea 2. Buscar una visión.md",
-    "TAREAS/Tarea 1. Buscar una misión.md",
-    "UNIDAD III - Estudio técnico.md",
-    "TAREAS/Tarea 13. Organigrama.md",
-    "Documentos.md",
-    "TAREAS/Tarea 10. Exposición.md",
-    "Sociedad en Nombre Colectivo.md",
-    "IMG_20260303_081015_443.jpg",
-    "IMG_20260303_080932_106.jpg",
-    "IMG_20260303_080855_028.jpg",
-    "IMG_20260303_080807_801.jpg",
-    "IMG_20260303_080753_498.jpg",
-    "Pasted image 20260225223905.png",
-    "Pasted image 20260225202818.png",
-    "OIP-4286943357.jpg",
-    "Pasted image 20260224084617.png",
-    "Pasted image 20260224084054.png",
-<<<<<<< HEAD
-    "UNIDAD I - Conceptos básicos.md",
-    "Importante.md",
-=======
-    "TAREAS/Tarea 7. Tamaño de la planta y adecuaciones.md",
->>>>>>> 41dd53b2a7eedaff19f972b9c54d80f882194bcd
-    "TAREAS/Sin título.base",
-    "TAREAS",
-    "Proyecto de Negocio.md",
-    "Proyectos de inversión - Definición de perfil.md",
-    "Sin título.canvas",
-    "Sin título.base"
-  ]
+  "active": "1d43c193f040ebfc",
+  "lastOpenFiles": []
 }
