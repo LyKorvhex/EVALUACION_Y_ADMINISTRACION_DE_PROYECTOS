@@ -1,5 +1,5 @@
 ## Fortalezas
-- Capacidad de ofrecer servicios de diseño e impresión.
+- Ubicación cercana a universidades.
 - Flexibilidad para proyectos pequeños y grandes.
 - Atención cercana y personalizada a clientes locales.
 - Tecnología moderna de calidad.
@@ -8,6 +8,7 @@
 - Creciente demanda de marketing visual en negocios locales.
 - Expansión hacia servicios digitales (diseño web o redes sociales).
 - Alianzas con instituciones educativas.
+- Aprovechamiento de las redes sociales para expandir la promoción.
 
 ## Debilidades
 - Alta dependencia de clientes locales.

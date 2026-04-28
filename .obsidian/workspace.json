@@ -1,42 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "888a352d5c573e31",
+    "id": "1ce0f4971b6553bc",
     "type": "split",
     "children": [
       {
-        "id": "2e26a724b12d0fec",
+        "id": "1d43f3bb5bd5035e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d43c193f040ebfc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-=======
-    "id": "43eaa31a6230f756",
-    "type": "split",
-    "children": [
-      {
-        "id": "8b54bb73c684fad2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "853eafc2716d116e",
+            "id": "409ed4e9bdf11169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS/Tarea 2. Buscar una visión.md",
+                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 2. Buscar una visión"
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+              "title": "Tarea 10. Reseña de la organización"
             }
           }
         ]
@@ -45,27 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "826e4af12e82e64e",
+    "id": "e6c959509728bc62",
     "type": "split",
     "children": [
       {
-        "id": "203b1f98f2837c0a",
+        "id": "707e39979332ba8a",
         "type": "tabs",
         "children": [
           {
-            "id": "2186e48e5cfb8463",
-=======
-    "id": "26f8d49b6a95882e",
-    "type": "split",
-    "children": [
-      {
-        "id": "775d887ca834f48f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "075058f8a611d5a7",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "feb322f23936bef7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,11 +48,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "df5d3bff89505779",
-=======
-            "id": "cb78db220ee804b1",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "a9b84e503f219e2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3ac37718db33bcb3",
-=======
-            "id": "9132a372e843d4c4",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "33642c391d88ca65",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,41 +78,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 300
   },
   "right": {
-    "id": "979ca46385e647a9",
+    "id": "720fff31b29c9f17",
     "type": "split",
     "children": [
       {
-        "id": "f8c98d9836ea4cb1",
+        "id": "303a41cccf531df5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f5ee78e19dced5",
-=======
-    "width": 280.5
-  },
-  "right": {
-    "id": "4bb22fc014a4ecec",
-    "type": "split",
-    "children": [
-      {
-        "id": "8ce9b50c97e67e2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b4f1685c7b05a8d",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "392e09c09c39d0ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+                "file": "TAREAS/Tarea 6. Macro y microlocalización..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,44 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Tarea 6. Macro y microlocalización."
             }
           },
           {
-            "id": "7837ad44c5a22837",
-=======
-              "title": "Enlaces entrantes de Tarea 10. Reseña de la organización"
-            }
-          },
-          {
-            "id": "e0716e104f90ac5c",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "0aab7a6cf75d63b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+                "file": "TAREAS/Tarea 6. Macro y microlocalización..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Tarea 6. Macro y microlocalización."
             }
           },
           {
-            "id": "e3d37f3811e9fae9",
-=======
-              "title": "Enlaces salientes de Tarea 10. Reseña de la organización"
-            }
-          },
-          {
-            "id": "fdc6b079ea5d1cb4",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "28529a9abf3bb58c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -212,11 +137,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "276f8c7a52879286",
-=======
-            "id": "fe917a40b01b3f58",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "943df992b09abbe6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -230,29 +151,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "dad3f8429f346252",
-=======
-            "id": "8e4dcc5d637d1b0d",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+            "id": "0611d36aec8a7381",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "TAREAS/Tarea 10. Reseña de la organización.md",
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+                "file": "TAREAS/Tarea 6. Macro y microlocalización..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Esquema"
-=======
-              "title": "Esquema de Tarea 10. Reseña de la organización"
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
+              "title": "Esquema de Tarea 6. Macro y microlocalización."
             }
           }
         ]
@@ -264,8 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir vista gráfica": false,
       "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
@@ -274,48 +184,21 @@
       "bases:Crear nueva base": false
     }
   },
-<<<<<<< HEAD
-  "active": "1d43c193f040ebfc",
-  "lastOpenFiles": []
-=======
-  "active": "853eafc2716d116e",
+  "active": "409ed4e9bdf11169",
   "lastOpenFiles": [
-    "TAREAS/Tarea 1. Buscar una misión.md",
-    "TAREAS/Tarea 2. Buscar una visión.md",
-    "TAREAS/Tarea 9. Maquinaria y-o equipo.md",
-    "Planos_DigitalVision.pdf",
-    "~$tudio_Tecnico.docx",
-    "UNIDAD III - Estudio técnico.md",
+    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
     "TAREAS/Tarea 10. Reseña de la organización.md",
-    "TAREAS/Tarea 14. Reglamento.md",
-    "TAREAS/Tarea 15. Identificar el estimado de dinero.md",
-    "Documentos.md",
-    "Proyectos de inversión - Definición de perfil.md",
-    "Sociedad en Nombre Colectivo.md",
-    "0BBA4500",
-    "50B94500",
-    "UNIDAD II - Estudio de Mercado.md",
-    "InversionDiferida.jpg",
-    "Inversiones.xlsx",
-    "ABDC9400",
-    "~$Inversiones.xlsx",
-    "Pasted image 20260418203834.png",
-    "Pasted image 20260418203608.png",
-    "Pasted image 20260418203223.png",
-    "Pasted image 20260418203055.png",
-    "Pasted image 20260418202651.png",
-    "Pasted image 20260418201549.png",
-    "Pasted image 20260418193654.png",
-    "Pasted image 20260418190306.png",
+    "TAREAS/Tarea 7. Tamaño de la planta y adecuaciones.md",
+    "Ejemplo_Tintas.png",
+    "Silla gamer.png",
+    "TAREAS/Tarea 6. Macro y microlocalización..md",
     "TAREAS/Tarea 11. Organigrama.md",
     "TAREAS/Tarea 12. Diagrama de flujo.md",
+    "TAREAS/Tarea 15. Identificar el estimado de dinero.md",
+    "TAREAS/Tarea 14. Reglamento.md",
     "TAREAS/Tarea 13. 3 Políticas.md",
     "TAREAS/Tarea 5. Identificar productos y-o servicios a ofertar.md",
-    "IMG_20260414_075455_806.jpg",
-    "TAREAS/Tarea 6. Macro y microlocalización..md",
-    "~WRL0212.tmp",
-    "~WRD0165.tmp",
-    "~WRL0791.tmp"
+    "TAREAS/Tarea 2. Buscar una visión.md",
+    "TAREAS/Tarea 1. Buscar una misión.md"
   ]
->>>>>>> 6f95ee799c0f815c940c5b1a7a76de3bd148c50e
 }
