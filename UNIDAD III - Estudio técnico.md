@@ -119,6 +119,7 @@ En esta etapa se desarrollan actividades tales como:
 Como etapa final de ingeniería, aparece la ingeniería de detalle, referida a la implementación de la planta productiva generada por el proyecto, las pruebas piloto y la elaboración de los productos. En la ingeniería de detalle se ajustan los objetivos de producción del proyecto de inversión.
 
 ## Estudio jurídico administrativo
+
 Resulta de vital importancia para el inversionista porque le indica cómo está administrada la organización y las decisiones que se toman para lograr los máximos beneficios.
 
 En él se establecen la organización, los procedimientos y la personalidad jurídica con la cual realizará operaciones el ente económico (forma de constitución de una sociedad).
@@ -353,3 +354,14 @@ $A = Activo$
 $P = Pasivo$
 $CC = Capital Contable$
 
+## Estado de resultados
+También llamado de Pérdidas y Ganancias, pues muestra los resultados de utilidad o pérdida obtenida por una entidad económica durante un periodo.
+
+En las entidades lucrativas es la diferencia entre los ingresos y egresos recibe el nombre de utilidad o pérdida según sea el caso.
+
+## Capital de trabajo
+Así se le denomina a las inversiones indispensables para efectuar las actividades de producción y venta; se recuperan a corto plazo y no están sujetos a depreciación. Está representado por el capital adicional (distinto de la inversión en activo fijo y diferido) con que hay que contar para que empiece a funcionar el proyecto.
+
+Para financiar la primer producción debe comprarse materia prima, pagar mano de obra, contar con cierta cantidad de efectivo para sufragar los gastos diarios de la empresa, otorgar crédito por la primera producción, etc. Estos rubros constituirán el activo circulante.
+
+Sin embargo, también se puede obtener crédito a corto plazo en conceptos tales como proveedores, algunos servicios, impuestos y, a este concepto se le denomina pasivo circulante. En términos de liquidez, se le define como los activos realizables a corto plazo con los que se puede hacer frente a las obligaciones del mismo periodo
