@@ -4,7 +4,7 @@ Es el grado en que lograr algo es posible o las posibilidades que tiene de logra
 Iniciar un proyecto de producción o fortalecerlo significa invertir recursos como tiempo, dinero, materia prima y equipos. Como los recursos siempre son limitados, es necesario tomar una decisión; las buenas decisiones sólo pueden ser tomadas sobre la base de evidencias y cálculos correctos, de manera que se tenga mucha seguridad de que el negocio se desempeñará correctamente y que producirá ganancias.
 ![[WhatsApp Image 2026-05-07 at 7.59.19 AM.jpeg|483]]
 
->[!NOTA]: CETES
+>[!NOTE]: CETES
 >28 dias 6.49 %
 >91       6.67%  --> $270 - $285
 >175     6.75%

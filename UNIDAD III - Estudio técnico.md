@@ -278,13 +278,11 @@ En la etapa preoperativa se calculan los intereses derivados de aquellas partes 
 Cabe señalar que los intereses de la etapa operativa derivados del financiamiento por deuda, adquirida, no se capitalizan, sino que se cargan como costo en el estado de resultados.
 
 ## Interés
-Los inversionistas canalizan sus excedentes de efectivo a inversiones por las que reciben un premio, mismo que es pagado por la persona (física o moral) que toma estos recursos en préstamo.
+Los inversionistas ponen a trabajar el dinero que les sobra prestándolo o invirtiéndolo, y a cambio reciben una ganancia llamada rendimiento. Por otro lado, quien pide ese dinero prestado paga un costo por usarlo. Tanto el rendimiento como el costo se expresan como un porcentaje del dinero original.
 
-Este premio recibe el nombre de rendimiento, para el inversionista, y de costo, para quien toma los recursos en préstamo; también se indicó que ambos, rendimiento y costo, se expresan en forma de porcentaje respecto del monto original.
+Cuando los intereses se calculan siempre sobre la misma cantidad inicial y no se vuelven a invertir, se le llama interés simple. Pero si los intereses se reinvierten y empiezan a generar más intereses, entonces hablamos de interés compuesto, porque cada periodo se gana más que en el anterior.
 
-Cuando los intereses no se reinvierten decimos que la cuenta genera interés simple, ya que los intereses siempre son calculados sobre la cantidad original. Cuando se reinvierten, hablamos de capitalizar los intereses de la inversión, y entonces lo que se está aplicando es interés compuesto, ya que los intereses de periodos subsecuentes son mayores que los de periodos previos. En el caso de los préstamos , también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos.
-
-En el caso de los préstamos, también puede hablarse de interés simple o de interés compuesto; se habla del primero cuando los intereses se calculan sobre el monto original del crédito, y se trata de interés compuesto o interés sobre saldos insolutos cuando los intereses se calculan sobre una cantidad cada vez menor, a la que se denomina saldo insoluto y que para cada periodo es menor, ya que al monto original del préstamo se le van restando los pagos que el deudor va haciendo con el paso del tiempo.
+En los préstamos pasa algo parecido: hay interés simple cuando los intereses se calculan sobre el monto original del crédito. En cambio, el interés compuesto o sobre saldos insolutos se calcula sobre lo que todavía falta por pagar. Como el deudor va abonando poco a poco, la deuda disminuye y los intereses también se van calculando sobre cantidades cada vez menores.
 
 ### Interés simple
 Es el dinero generado sobre el capital original, sin considerar el interés sobre el dinero generado.
@@ -327,24 +325,24 @@ Sus funciones son las de facilitar la obtención física de un producto; se encu
 ![[IMG_20260414_075455_806.jpg]]
 
 ### Inversión diferida
-Se realizan otras inversiones en bienes y servicios intangibles que son indispensables para la iniciación del proyecto, pero que no intervienen directamente en la producción. Están sujetos a amortización y se recuperan a largo plazo. A estas inversiones se les denomina activos diferidos o cargos diferidos.
+Los activos diferidos o cargos diferidos son inversiones en bienes y servicios intangibles necesarias para iniciar un proyecto, aunque no participan directamente en la producción. Estas inversiones se amortizan y se recuperan a largo plazo.
 
-A esta definición contable se le antepone la definición fiscal, la cual está contenida en el Artículo 21, letra e, de la Ley del Impuesto sobre la Renta: "Se entenderá por cargos diferidos los activos intangibles representados por bienes o derechos que permitan reducir costos de operación o mejorar la calidad o aceptación de un producto, durante un periodo ilimitado o que depende de la duración del negocio, y por gastos diferidos, los que reúnan los requisitos anteriores pero cuyo beneficio se concreta a un periodo limitado, inferior a la duración de la empresa".
+Desde el punto de vista fiscal, la Ley del Impuesto sobre la Renta los define como activos intangibles que ayudan a reducir costos de operación o mejorar la calidad y aceptación de un producto. También incluye los gastos diferidos, cuyos beneficios se obtienen en un periodo limitado menor a la duración de la empresa.
 
-Haciendo un análisis de los rubros que tradicionalmente se han considerado como activos intangibles, a saber: las investigaciones y estudios previos a la puesta en marcha, organización de la empresa, patentes, diseños comerciales o industriales y conocimientos técnicos y especializados en ingeniería, supervisión y administración de la instalación.
+Entre los principales activos intangibles considerados dentro de los cargos diferidos se encuentran:
 
-- Investigaciones y Estudios Previos.
-- Organización de la Empresa.
-- Patentes y Conocimientos Técnicos Especializados.
-- Ingeniería, Supervisión y Administración de la Instalación.
-- Puesta en Marcha de la Planta.
+- Investigaciones y estudios previos.
+- Organización de la empresa.
+- Patentes y conocimientos técnicos especializados.
+- Ingeniería, supervisión y administración de la instalación.
+- Puesta en marcha de la planta.
 ![[IMG_20260414_080653_962.jpg]]
 
 
 ## Elaboración de estados financieros
-La información financiera se refleja en los diferentes estados financieros, los cuales se utilizan para realizar la evaluación financiera. Primeramente hay que considerar las inversiones que requieren los proyectos de inversión y se divide en: inversión fija, inversión diferida y el capital de trabajo, así como el financiamiento en el cual se determina la aportación de cada socio y se mencionan otras opciones de financiamientos por crédito, los presupuestos ingreso y gasto, la depreciación y amortización del mobiliario y equipo, el punto de equilibrio, los estados financieros proforma que nos muestran las proyecciones financieras de un proyecto son; el estado de resultados, estado de situación financiera o balance general y estados de flujos de efectivo.
+La información financiera de un proyecto se presenta en distintos estados financieros utilizados para su evaluación. Primero se consideran las inversiones necesarias: inversión fija, inversión diferida y capital de trabajo, además de las fuentes de financiamiento, como aportaciones de socios y créditos. También se analizan presupuestos de ingresos y gastos, depreciación, amortización, punto de equilibrio y estados financieros proforma, como el estado de resultados, balance general y flujo de efectivo.
 
-Posteriormente se hará la evaluación financiera del proyecto que es la sección más importante del estudio, ya que es aquí donde se observará si el proyecto es financieramente viable al estimar el Flujo Neto de Efectivo. costo de capital, Valor Presente Neto (VPN), Tasa Interna de Retorno (TIR), relación beneficio-costo y tiempo de recuperación de la inversión así como el análisis de sensibilidad.
+Posteriormente se realiza la evaluación financiera, que permite determinar la viabilidad del proyecto mediante indicadores como el Flujo Neto de Efectivo, costo de capital, Valor Presente Neto (VPN), Tasa Interna de Retorno (TIR), relación beneficio-costo, tiempo de recuperación de la inversión y análisis de sensibilidad.
 
 ## Estado de situación financiera
 También conocido como Estado de posición financiera o Balance general. Este estado nos muestra la situación financiera de una empresa a determinada fecha, contando con tres conceptos básicos: Activo, pasivo y capital contable. De esta forma proporciona a los usuarios de información la imagen de rentabilidad, solvencia, liquidez, capacidad financiera, etc. La fórmula de este es el activo es igual al pasivo más el capital contable.
