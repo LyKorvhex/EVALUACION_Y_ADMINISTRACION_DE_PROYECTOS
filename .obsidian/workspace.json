@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAREAS/Tarea 3. Realizar un análisis FODA.md",
-                "mode": "preview",
+                "file": "UNIDAD V - Evaluación financiera, económica y social.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 3. Realizar un análisis FODA"
+              "title": "UNIDAD V - Evaluación financiera, económica y social"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "4bb22fc014a4ecec",
@@ -186,6 +187,8 @@
   },
   "active": "2018b6590bcfbc16",
   "lastOpenFiles": [
+    "~$cumento_Proyecto.docx",
+    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
     "~WRL0005.tmp",
     "~WRD0004.tmp",
     "TAREAS/Tarea 13. 3 Políticas.md",
@@ -198,8 +201,6 @@
     "~WRL1248.tmp",
     "~WRD1186.tmp",
     "DESCRIPCION DE PUESTO - DISEÑADOR GRAFICO.docx",
-    "~$SCRIPCION DE PUESTO - ENCARGADO DE IMPRESION A GRAN TAMAÑO.docx",
-    "TAREAS/Tarea 3. Realizar un análisis FODA.md",
     "UNIDAD V - Evaluación financiera, económica y social.md",
     "UNIDAD III - Estudio técnico.md",
     "Silla gamer.png",
